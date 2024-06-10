@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: hsl(324, 14%, 14%); /* Coral */
+    color: #fff;
+    text-align: right;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: hsl(0, 23%, 88%);
+    
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #faba30; /* Golden Yellow */
+}
+
+.profile img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+section {
+    padding: 50px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #4ECDC4; /* Turquoise */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+.name{
+    font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: italic;
+  color: #f90606e3;
+}
+
+h2{
+    color: hsl(60, 73%, 23%);
+    font-weight: bold;
+}
